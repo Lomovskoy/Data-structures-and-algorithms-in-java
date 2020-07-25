@@ -1,4 +1,4 @@
-package chapter1.bankapp;
+package chapter1;
 
 /**
  * Демонстрация базового синстаксиса ООП.

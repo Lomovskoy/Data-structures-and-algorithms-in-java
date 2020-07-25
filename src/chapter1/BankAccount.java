@@ -1,4 +1,4 @@
-package chapter1.bankapp;
+package chapter1;
 
 /**
  * Акаунт банка представляющий услуги клиенту.
