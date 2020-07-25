@@ -1,12 +1,5 @@
-/1 глава/Bank/nbproject/private/
-/1 глава/Bank/build/
-/2 глава/ArrayApp/nbproject/private/
-/2 глава/ArrayApp/build/
-/2 глава/LowArrayApp/nbproject/private/
-/2 глава/LowArrayApp/build/
-/2 глава/HightArrayApp/nbproject/private/
-/2 глава/HightArrayApp/build/
-/2 глава/OrderApp/nbproject/private/
-/2 глава/OrderApp/build/
-/2 глава/ClassDataApp/nbproject/private/
-/2 глава/ClassDataApp/build/
+### IntelliJ IDEA ###
+.idea/
+out/
+target/
+Java-The-Complete-Reference-Tenth-Edition.iml
